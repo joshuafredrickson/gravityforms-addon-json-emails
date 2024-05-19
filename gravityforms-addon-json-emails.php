@@ -7,8 +7,7 @@
  * Requires PHP: 8.1
  * Author: Joshua Fredrickson
  * Author URI: https://orangepineapple.com
- * License: GPLv2 or later
- * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ * License: MIT
  */
 
 define('GF_JSON_EMAILS_ADDON_VERSION', '1.0.0');
